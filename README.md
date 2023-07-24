@@ -1,7 +1,7 @@
 ### Hi there 👋
 你看啥快去敲代码🥵
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+don't+know+what+I+can+do+?;Why+are+u+reading+this+?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6993F7&background=3B4EFF00&center=true&vCenter=true&width=435&lines=Why+are+you+reading+this+%3F)](https://git.io/typing-svg)
 
 
 <picture>
