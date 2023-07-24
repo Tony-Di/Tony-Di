@@ -1,7 +1,7 @@
 ### Hi there 👋
 你看啥快去敲代码🥵
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=傻逼+给你+头套+拽掉;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+don't+know+what+I+can+do+?;Why+are+u+reading+this+?)](https://git.io/typing-svg)
 
 
 <picture>
