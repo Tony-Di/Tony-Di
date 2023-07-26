@@ -1,8 +1,6 @@
 ### Hi there 👋
-你看啥快去敲代码🥵
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6993F7&background=3B4EFF00&width=435&lines=Why+are+you+reading+this+%F0%9F%A5%B5+%3F)](https://git.io/typing-svg)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
