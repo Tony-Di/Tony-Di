@@ -9,7 +9,7 @@
 </picture>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tony-Di)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Tony-Di&layout=compact&theme=tokyonight) 
 <!--
 **Tony-Di/Tony-Di** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
