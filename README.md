@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6993F7&background=3B4EFF00&width=435&lines=Why+are+you+reading+this+%F0%9F%A5%B5+%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1338F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+page)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
@@ -8,8 +8,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tony-Di)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Tony-Di&layout=compact&theme=tokyonight) 
+
 <!--
 **Tony-Di/Tony-Di** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
